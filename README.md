@@ -16,7 +16,7 @@ In total there is 6 pages
 5.Why Flowers
 6.Order
 
-#navigator
+#navigator.
 It consists 6 buttons of the web-page.
 When you point with mouse to which section you want, it goes to that part of the page.
 I have used different icons from https://fontawesome.com/ to make it more pretty.
@@ -26,23 +26,23 @@ There is given information about roses and what symbol of red and white rose.
 For changing images, I have used slider, which will constantly change each photo.
 From there they can found why to buy this color of roses.
 
-#Bouquets
+#Bouquets.
 It shows 6 different collection of flowers. When you point with mouse there is 2 icons are appearing. But when you point it the page starts from the beginning. There is also added button "add to card", to make easy access to buy them with the special price for all of them.
 
-#About
+#About.
 It shows the reason of buying flowers. Our differences than local shops like free delivery and working time. And in the future with button learn more they can find information of upcoming holidays to give flowers and discounts in the shop.
 
-#Birthdays
+#Birthdays.
 Each birthday month has its own special flower. This section is about them. The specialty of this section easy to understand, and add to card. Each picture on the corner have button for saving, which I am going to develop in the future
 
-#Why Flowers
+#Why Flowers.
 The advantages of flowers because they can help with struggling different problems. The benefits go changes every 30sec by slider.
 
-#Order
+#Order.
 You can fill the form and order your favorite bouquet or choose any kind of flowers to make it yourself.
 
 
-#Footer
+#Footer.
 It gives information about our branches and provides links for social media. It has opportunity to quickly start this page again.
 
 
