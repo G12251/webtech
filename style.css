@@ -634,8 +634,8 @@ header .icons #flower-bars{
 
 @media  (max-width: 768px){
     
-header .icons #flower-bars {
-    display:inline-block ;
+    header .icons #flower-bars {
+        display:inline-block ;
 }
 
     header .navbar{
@@ -646,7 +646,7 @@ header .icons #flower-bars {
         padding: 1rem;
         clip-path: polygon(0 0, 100% 0, 100% 0, 0 0);
     }
-    header .navbar.active{
+    header .navbar .active{
         clip-path: polygon(0 0, 100% 0, 100% 100%, 0% 100%);
     }
 
@@ -665,8 +665,8 @@ header .icons #flower-bars {
     }
 
 }
-.home .home-slider .slide .content h3 {
-    font-size: 5rem;
+    .home .home-slider .slide .content h3 {
+        font-size: 5rem;
 }
 @media (max-width:450px){
 
