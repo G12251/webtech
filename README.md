@@ -6,6 +6,7 @@ The aim of the website is to give information about bouquets for different occas
 You can order flowers from different points of world and as much as you want.
 
 #project link https://github.com/G12251/webtech.git 
+https://vibrant-meninsky-4b3d51.netlify.app/ 
 
 #Pages
 In total there is 6 pages
